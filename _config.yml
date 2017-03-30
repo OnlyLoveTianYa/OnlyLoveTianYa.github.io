@@ -1,17 +1,15 @@
 ﻿encoding: utf-8
 author: 爱上天涯
 url: 个人网站
-### baseurl修改为项目名，如果项目是'***.github.io'，则设置为空''
 baseurl: ""
-resume_site: www.baidu.com
-github: github地址
+resume_site: https://www.baidu.com
+github: https://github.com/OnlyLoveTianYa
 github_username: OnlyLoveTianYa
 FB:
   comments :
     provider : duoshuo
     duoshuo:
         short_name : luoyan35714
-    
     disqus :
         short_name : freudkang
   

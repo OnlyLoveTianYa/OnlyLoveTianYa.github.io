@@ -5,6 +5,8 @@
   {% include LessOrMore/comments-providers/disqus %}
 {% when "facebook" %}
   {% include LessOrMore/comments-providers/facebook %}
+{% when "wangyiyun" %}
+  {% include LessOrMore/comments-providers/wangyiyun %}
 {% when "duoshuo" %}
   {% include LessOrMore/comments-providers/duoshuo %}
 {% when "custom" %}
