@@ -1,8 +1,9 @@
 ﻿encoding: utf-8
 author: 爱上天涯
+name: 天涯阁
 url: 个人网站
 baseurl: ""
-resume_site: https://www.baidu.com
+resume_site: /author
 github: https://github.com/OnlyLoveTianYa
 github_username: OnlyLoveTianYa
 FB:
