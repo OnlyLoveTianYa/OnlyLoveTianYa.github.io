@@ -8,9 +8,7 @@ github: https://github.com/OnlyLoveTianYa
 github_username: OnlyLoveTianYa
 FB:
   comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : luoyan35714
+    provider : tianyablog
     disqus :
-        short_name : freudkang
+        short_name : tianyablog
   
